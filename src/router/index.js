@@ -23,10 +23,11 @@ const routes = [
     }
 
 ]
-const router = new Router([
+const router = new Router({
     //配置路由和组件之间的应用关系
     routes,
-])
+    mode: 'history'
+})
 
 //将router传到vue实例中
 export default router
