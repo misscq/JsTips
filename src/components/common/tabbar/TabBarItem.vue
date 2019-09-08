@@ -48,4 +48,7 @@
     vertical-align: middle;
   }
 
+  /*.item-text.active {*/
+    /*color: #ff5777*/
+  /*}*/
 </style>

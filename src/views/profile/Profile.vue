@@ -1,13 +1,8 @@
 <template>
-  <h2>个人</h2>
-</template>
-
+        <h1>我的</h1>
+    </template>
 <script>
-  export default {
-    name: "Profile"
-  }
+    export default{
+        name:'Profile'
+    }
 </script>
-
-<style scoped>
-
-</style>

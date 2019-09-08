@@ -1,13 +1,8 @@
 <template>
-  <h2>分类</h2>
+    <h1>分类</h1>
 </template>
-
 <script>
-  export default {
-    name: "Category"
-  }
+    export default{
+        name:'Category'
+    }
 </script>
-
-<style scoped>
-
-</style>

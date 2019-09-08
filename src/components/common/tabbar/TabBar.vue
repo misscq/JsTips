@@ -11,7 +11,7 @@
 </script>
 
 <style scoped>
- .tab-bar {
+  .tab-bar {
     background-color: #f6f6f6;
     height: 49px;
     border-top: 1px solid #eee;
@@ -25,5 +25,4 @@
     display: flex;
     text-align: center;
   }
-
 </style>
